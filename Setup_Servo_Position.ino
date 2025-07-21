@@ -1,6 +1,6 @@
 #include <ESP32Servo.h>
 
-// Create four Servo objects
+
 Servo servo1;
 Servo servo2;
 Servo servo3;

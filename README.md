@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="" alt="gif" width="730" height="auto" />
+    <img src="https://github.com/MrEchoFi/EchoFi_SpiderBot/blob/main/EchoFi_SpiderBot_In_Action_e7aa30d7-2361-4d91-bd90-2a9f772ff5b0.jpg?raw=true" alt="gif" width="730" height="auto" />
 
 </div>
 
@@ -21,3 +21,13 @@
 </div>
 
   ## Photos:
+<div align="center">
+    <img src="https://github.com/MrEchoFi/EchoFi_SpiderBot/blob/main/1753085157675.jpg?raw=true" alt="gif" width="500" height="auto" />
+
+</div>
+
+<div align="center">
+    <img src="https://github.com/MrEchoFi/EchoFi_SpiderBot/blob/main/1753085157692.jpg?raw=true" alt="gif" width="500" height="auto" />
+
+</div>
+  
